@@ -20,7 +20,7 @@ public class HelloGit {
 		System.out.println("충돌");
 		System.out.println(" 충돌 Hello Git 영섭444");
 		String a="다혜";
-		int height=150;
+		String b="키컸으면";
 			
 
 	}
