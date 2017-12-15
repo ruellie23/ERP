@@ -12,7 +12,7 @@ public class HelloGit {
 		System.out.println("Hello Git 영섭 :)");
 		System.out.println("Hello Git 영섭");
 
-
+		System.out.println("수정");
 		System.out.println("Hello Git 영섭444");
 
 	}
