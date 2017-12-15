@@ -14,6 +14,9 @@ public class HelloGit {
 
 		System.out.println("충돌");
 		System.out.println(" 충돌 Hello Git 영섭444");
+		System.out.println("충돌한다충돌");
+		System.out.println("충돌한다");
+		System.out.println("충돌이 계속난다 머지");
 
 	}
 
