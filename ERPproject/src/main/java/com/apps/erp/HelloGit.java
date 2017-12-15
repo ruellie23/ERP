@@ -23,6 +23,8 @@ public class HelloGit {
 		String b="eeeee";
 			
 
+		String c=a+b;	
+		System.out.println(c);
 	}
 
 }
