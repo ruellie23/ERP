@@ -31,6 +31,9 @@ public class HelloGit {
 
 		String c=a+b;	
 		System.out.println(c);
+		
+		System.out.println("테스트 중 1번");
+
 	}
 
 }
