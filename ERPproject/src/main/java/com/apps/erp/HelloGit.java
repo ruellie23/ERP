@@ -9,6 +9,7 @@ public class HelloGit {
 
 		
 		System.out.println("Hello Git 영섭");
+		System.out.println("Hello Git 영섭 :)");
 
 
 
